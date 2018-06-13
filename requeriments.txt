@@ -1,0 +1,6 @@
+plumbum==1.6.6
+Pyro4==4.71
+rpyc==3.4.4
+selectors34==1.2
+serpent==1.24
+six==1.11.0
